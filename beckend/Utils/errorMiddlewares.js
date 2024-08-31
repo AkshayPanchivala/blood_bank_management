@@ -51,10 +51,7 @@ const sendError = (err, req, res, next) => {
 }
 
 module.exports = (err, req, res, next) => {
-	console.log('error', err)
-
 	err.statusCode = err.statusCode || 500
-
 	let error = { ...err }
 	error.message = err.message
 

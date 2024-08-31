@@ -10,7 +10,6 @@ const Dropdown = ({ title, touched, errors, values, handleChange }) => {
 	const states = useSelector((state) => state?.states?.states)
 	const [open, setOpen] = useState(false)
 	const dispatch = useDispatch()
-console.log("states",states)
 	useEffect(() => {
 		dispatch(getStates())
 	}, [dispatch])
