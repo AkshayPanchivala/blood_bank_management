@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "bloodType": "A_Positive",
+        "donateBloodTo": [
+            "A+",
+            "AB+"
+        ],
+        "receiveBloodFrom": [
+            "A+",
+            "A-",
+            "O+",
+            "O-"
+        ]
+    },
+    {
+        "id": 2,
+        "bloodType": "A_Negative",
+        "donateBloodTo": [
+            "A+",
+            "A-",
+            "AB+",
+            "AB-"
+        ],
+        "receiveBloodFrom": [
+            "A-",
+            "O-"
+        ]
+    },
+    {
+        "id": 3,
+        "bloodType": "B_Positive",
+        "donateBloodTo": [
+            "B+",
+            "AB+"
+        ],
+        "receiveBloodFrom": [
+            "B+",
+            "B-",
+            "O+",
+            "O-"
+        ]
+    },
+    {
+        "id": 4,
+        "bloodType": "B_Negative",
+        "donateBloodTo": [
+            "B+",
+            "B-",
+            "AB+",
+            "AB-"
+        ],
+        "receiveBloodFrom": [
+            "B-",
+            "O-"
+        ]
+    },
+    {
+        "id": 5,
+        "bloodType": "AB_Positive",
+        "donateBloodTo": [
+            "AB+"
+        ],
+        "receiveBloodFrom": [
+            "A+",
+            "A-",
+            "B+",
+            "B-",
+            "AB+",
+            "AB-",
+            "O+",
+            "O-"
+        ]
+    },
+    {
+        "id": 6,
+        "bloodType": "AB_Negative",
+        "donateBloodTo": [
+            "AB+",
+            "AB-"
+        ],
+        "receiveBloodFrom": [
+            "A-",
+            "B-",
+            "AB-",
+            "O-"
+        ]
+    },
+    {
+        "id": 7,
+        "bloodType": "O_Positive",
+        "donateBloodTo": [
+            "O+",
+            "A+",
+            "B+",
+            "AB+"
+        ],
+        "receiveBloodFrom": [
+            "O+",
+            "O-"
+        ]
+    },
+    {
+        "id": 8,
+        "bloodType": "O_Negative",
+        "donateBloodTo": [
+            "A+",
+            "A-",
+            "B+",
+            "B-",
+            "AB+",
+            "AB-",
+            "O+",
+            "O-"
+        ],
+        "receiveBloodFrom": [
+            "O-"
+        ]
+    }
+]
