@@ -14,11 +14,6 @@ A web-based Blood Bank Management System designed to streamline the process of b
   - [User](#user)
   - [Admin](#admin)
   - [Hospital](#hospital)
-- [Screenshots](#screenshots)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Features
