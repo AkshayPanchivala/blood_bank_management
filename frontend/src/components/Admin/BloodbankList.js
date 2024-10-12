@@ -64,7 +64,7 @@ const BloodbankList = () => {
 								<TableCell>S.No</TableCell>
 								{/* <TableCell>Status</TableCell> */}
 								<TableCell>Blood Bank</TableCell>
-								<TableCell>contact Person</TableCell>
+								<TableCell>Contact Person</TableCell>
 								<TableCell>Category</TableCell>
 								<TableCell>Address</TableCell>
 								<TableCell>State</TableCell>

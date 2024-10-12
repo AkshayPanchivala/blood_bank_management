@@ -11,7 +11,7 @@ const {
 const router = express.Router()
 
 router.use(selectAdminModel)
-// aaaymowedi@gmail.com
+
 router.route('/register').post(registerMiddleware, adminRegister)
 
 router.route('/login').post(loginMiddleware, login)

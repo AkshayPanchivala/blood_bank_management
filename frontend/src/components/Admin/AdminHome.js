@@ -3,7 +3,7 @@ import React from 'react'
 const AdminHome = () => {
 	return (
 		<>
-			<h1>Admin home</h1>
+			<h1>Admin Home</h1>
 		</>
 	)
 }

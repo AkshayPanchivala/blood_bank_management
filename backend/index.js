@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
-const dotenv = require('dotenv')
-dotenv.config({ path: './config.env' })
+require("dotenv").config();
 const app = require('./app')
+const AppError = require('./Utils/appError')
 
 
 const connection=async(req,res,next)=>{
