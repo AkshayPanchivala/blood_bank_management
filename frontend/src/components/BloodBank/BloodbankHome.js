@@ -37,7 +37,7 @@ const BloodbankHome = () => {
 								variant='h6'
 								component='div'
 							>
-								Pedding Requests
+								Pemding Requests
 							</Typography>
 							<Typography sx={{ mb: 1.5 }} color='text.secondary'>
 								{donatestates?.Pending
@@ -104,7 +104,7 @@ const BloodbankHome = () => {
 								variant='h6'
 								component='div'
 							>
-								Pedding Requests
+								Pending Requests
 							</Typography>
 							<Typography sx={{ mb: 1.5 }} color='text.secondary'>
 								{receivestates?.Pending
