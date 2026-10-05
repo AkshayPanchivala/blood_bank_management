@@ -37,7 +37,7 @@ const UserHome = () => {
 								variant='h6'
 								component='div'
 							>
-								Pedding Requests
+								Pending Requests
 							</Typography>
 							<Typography sx={{ mb: 1.5 }} color='text.secondary'>
 								{donatestates?.Pending
@@ -104,7 +104,7 @@ const UserHome = () => {
 								variant='h6'
 								component='div'
 							>
-								Pedding Requests
+								Pending Requests
 							</Typography>
 							<Typography sx={{ mb: 1.5 }} color='text.secondary'>
 								{receivestates?.Pending
